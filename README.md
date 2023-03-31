@@ -19,9 +19,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-```
-
-        
+```       
 <!DOCTYPE html>
 <html>
 <title>Online HTML Editor</title>
