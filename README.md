@@ -6,7 +6,7 @@
 ### STEP-1
   Open notepad and type the HTML code.
 
-### STEP-2
+### SP-2
   Create an ordered list using ```<ol>``` tag.
 
 ### STEP-3
@@ -24,7 +24,7 @@
 <title>sample webpage</title>
 <head>   <hl align="centre"> Saveetha Engineering College</hl>
 </head>
-<body bgcolor=aqua>
+<body bgcolor=white>
     <p style="text-align:centre"></p>
     <hr text-decoration-line:understanding;
     text-decoration-thickness:3px>
