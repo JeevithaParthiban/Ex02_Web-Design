@@ -19,36 +19,62 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-```       
-<!DOCTYPE html>
 <html>
-<title>Online HTML Editor</title>
-<head>   <hl align="centre">Saveetha Engineering College</hl>
+<head>
+<title>Saveetha Engineering College</title>
 </head>
-<body bgcolor=aqua> 
-    <p style="text-align:centre"></p>
-    <hr text-decoration-line:underline;
-    text-decoration-thicknesss:3px>
-    <ol style=list-style-type:upper-alpha>
-        <li>Agricultural Engineering</li>
-        <li>Computer Science & Engineering</li>
-        <li>Information Technology</li>
-        <li>Data Science</li>
-        <ul style=list-style-type:disc>
-        <li>Artificial Intelligence - Machine Learning</li>
-        <li>Artificial Intelligence - Data Science</li>
-        <li>Internet of Things</li>
-        </ul>
-        <li>Electronics & Communication Engineering </li>
-        <li>Electrical & Electronics Engineering</li>
-        <li>Mechanical Engineering</li>
-        </body>
-        </html>
+<body bgcolor="pink" text-"black">
+<h1 align:"centre">Saveetha Engineering College</h1>
+<hr size="6" color="black">
+<ol type="A">
+<li>Agricultural Engineering</li>
+<li>Computer Science And Engineering</li>
+<li>Information Technology</li>
+<li>Data Science</li>
+<ul type-"disc">
+<li>Artificial Intelligence - Data Science</li>
+<li>Artificial Intelligence - Machine Learning</li>
+<li>Internet Of Things</li>
+</ul>
+<li>Electronics & Communication Engineering</li>
+<li>Electrical & Electronics Engineering</li>
+<li>Mechanical Engineering</li>
+</ol>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         
         
         
 
-## OUTPUT![html](https://user-images.githubusercontent.com/127817091/229183631-d4564248-f2d8-4b9c-aaf0-8d08f34df72f.png)
+## OUTPUT![html](https://user-images.githubusercontent.com/127817091/229359447-87dedb59-7c54-4f36-b96d-6696dc330e59.png)
+
 
 
 
