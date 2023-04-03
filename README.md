@@ -19,6 +19,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+~~~
 <html>
 <head>
 <title>Saveetha Engineering College</title>
@@ -42,7 +43,7 @@
 </ol>
 </body>
 </html>
-
+~~~
 
 
 
